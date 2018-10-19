@@ -1,0 +1,12 @@
+pastikan anroid anda mendukung akses internet dan berversi android minimal jelly bean
+1. Pemasangan Android
+   a. pastikan database terkoneksi jika ingin di akses secara lokal, dan rubah konfigurasi.java dengan ip yang dikehendaki.
+   b. install Talk_English.apk di android anda
+   c. apabila sistem meminta akses untuk memakai microphon klik yes
+   d. pilih button tingkat untu memulai mengerjakan
+   e. untuk melihat hasil berada di menu result
+2. Pemasangan WEB
+   a. pastikan apache dan mysql telah terkoneksi
+   b. copykan data yang berada di "Source Code WEB" ke htdocs komputer anda
+   c. import database "id6349488_lanjut_progres.sql" ke phpmyadmin
+   d. dan panggil aplikasi WEB dengan web browser anda
